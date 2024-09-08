@@ -299,7 +299,7 @@ a{
 	justify-content: center;
 }
 
-embed{
+iframe{
 	height: 37vw;
 }
 
@@ -763,6 +763,13 @@ embed{
 
 	}
 	embed{
+		height: 50vw;
+	}
+	.block_pic{
+		width: 390px;
+		height:	257px;
+	}
+	iframe{
 		height: 50vw;
 	}
 }
